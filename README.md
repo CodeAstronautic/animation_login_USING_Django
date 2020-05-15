@@ -1,7 +1,11 @@
 # animation_login_USING_Django
 In this login page I have use JS , HTML , CSS , django
 
+APP NAME 
+login_fom
 
+PROJECT NAME 
+scholify
 
 USING 
 
